@@ -1,0 +1,26 @@
+# depslib dependency file v1.0
+1612601074 source:/home/luis/git/chip8emu/textbox.cpp
+	"textbox.h"
+
+1612134725 /home/luis/git/chip8emu/textbox.h
+	<SFML/Graphics.hpp>
+	<vector>
+
+1613279020 source:/home/luis/git/chip8emu/chip8.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	"chip8.h"
+
+1613278985 /home/luis/git/chip8emu/chip8.h
+	<string>
+
+1613280087 source:/home/luis/git/chip8emu/main.cpp
+	<SFML/Graphics.hpp>
+	<SFML/System.hpp>
+	<iostream>
+	"chip8.h"
+	"config.h"
+
+1613281342 /home/luis/git/chip8emu/config.h
+
